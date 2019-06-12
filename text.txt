@@ -1,5 +1,0 @@
-Git  is a distributed version control system
-Git is a free software
-I'm a little boy
-This is the fourth line
-Git tracks changes if lines heheheh .
